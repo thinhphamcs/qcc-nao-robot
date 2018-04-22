@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="1.1.2" uuid="airnao" typeVersion="1.0">
+  <names>
+    <name lang="en_US">AirNAO</name>
+    <name lang="fr_FR">AirNAO</name>
+  </names>
+  <descriptions>
+    <description lang="en_US">AirNAO allows you to access your NAO from your web browser over the local area network.</description>
+    <description lang="en_US">AirNAO vous permet d'acceder à votre NAO à partir de votre navigateur internet sur le réseau local.</description>
+  </descriptions>
+  <requirements>
+    <naoqiRequirement minVersion="1.22.4"/>
+    <robotRequirement model="NAO"/>
+  </requirements>
+</package>
